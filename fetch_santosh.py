@@ -90,7 +90,7 @@ class transaction:
 
 def main():
     if len(argv) < 2:
-        print("Please use the format: python3 solve.py $AMOUNT")
+        print("Please use the format: python3 fetch_santosh.py $AMOUNT")
         return
     amount = argv[1]
     transaction_obj = transaction(amount)
