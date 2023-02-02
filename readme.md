@@ -1,4 +1,4 @@
-Hello, I am Santosh Chejarla, I am an MCS studet at University of Illinois at Urbana-Champaign. To view my resume visit my website: https://santoshchejarla.com
+Hello, I am Santosh Chejarla, I am a Computer Science Graduate studet at the University of Illinois Urbana-Champaign. Visit my portfolio to view my resume and blog: https://santoshchejarla.com
 
 
 ## Fetch Coding Excercise Submission
@@ -17,6 +17,5 @@ $ python3 fetch_santosh.py 5000
     "UNILEVER": 0,
     "MILLER COORS": 5300
 }
-ch
 ```
 
