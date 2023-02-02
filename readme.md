@@ -1,4 +1,6 @@
-Hello, I am Santosh Chejarla, I am a Computer Science Graduate student at the University of Illinois Urbana-Champaign. Visit my portfolio to view my resume and blog: https://santoshchejarla.com
+Hello, I am Santosh Chejarla, I am a Computer Science Graduate student at the University of Illinois Urbana-Champaign. 
+
+Website: https://santoshchejarla.com
 
 
 ## Fetch Coding Excercise Submission
