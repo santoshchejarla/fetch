@@ -2,6 +2,8 @@ Hello, I am Santosh Chejarla, I am a Computer Science Graduate student at the Un
 
 Website: https://santoshchejarla.com
 
+email: santosh8@illinois.edu
+
 
 ## Fetch Coding Excercise Submission
 ---
